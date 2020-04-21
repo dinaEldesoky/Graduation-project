@@ -1,0 +1,264 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\cb6df6f837d35ad8ce67eb9eef8e8fee\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\2d9be438424a0aaf12ae0e0acb08435f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\5f45bdc7ed70194f0f4af0de68b2138b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\d596f8f0ed3aabb45fe9787b039e0d21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\2a95d92d0bc8f339463ec448a08eef30\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\bd40bd45340dfd45e4f130e56c0a4d23\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\87b79125bdb6a6f16b6a91956f3fa741\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\cb39ed2d2d5a85e47d1a665751d01198\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\799762dd28303ae8799b26bfa55cfedd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\69408043786d51ea4ea20e9cf5c407f6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\542ecc494c17a063101933f37745ce49\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\adb99c7f8baece2a3158afb231021bcc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e14834dbd8880a5d235950ab9141b87c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6460f13a359eaa71daf451522a672483\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f8ef5c3d608fc1af5053a8105f99e8c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3e289e9bd6db75c3ec87878f562e6222\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a42a224525c028048e3d1c15a920d9ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b84cb86e863c56ec9ae0b78756d72c49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\8756f3ccaa32824368d4c1826dc32338\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0a9d4791e2c9f1e99fa1e601f63433d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ccdc9e44ad87f8c0954df505f7c2289d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\30e1afb859d1bed8b267a5e221f33439\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4d4225fdbc8a1490cb55a8bbda27211b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\182dbd26ca6d2e24c6f017c68c83ac72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\edb3ae309d7afef03d19959661fcf9f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0c2057db10efe871a7835a41a6e4d08f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\727baef0054bfab195484f4bcf2f8eae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f1ffb9aef979403e478a32473f01b83b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\aba92cdd69cb34680da054fb1fabf396\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e795a14cb78d90720789431a496daf69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\58139a2280ed5d747d1826b918bd89d3\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\672d78e5b5a0b11d16c8e0625af56309\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\5fa9678b30b88a9fc8cdc24698fd61e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\869c3e56af51c0feab150e6b612d05b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\34430eda741302268108b87da69c87a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8d4f39d17d243efa306729e0d98e6f86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ac4d0c4ad644026d2d82c8d70bf25aa6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7f5ee3030a09dae92886eb406ec2fa79\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8520e186a2728003c315b37b0eb2e109\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\79a4cda66176e808803605b5b998e5fc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\08c3a69469eb7c709ea828b707921d3a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:4:5-35
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:6:22-64
+uses-feature#android.hardware.camera
+ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:8:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:10:22-62
+application
+ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:12:5-42:19
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\cb6df6f837d35ad8ce67eb9eef8e8fee\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\cb6df6f837d35ad8ce67eb9eef8e8fee\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\2d9be438424a0aaf12ae0e0acb08435f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\2d9be438424a0aaf12ae0e0acb08435f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\5f45bdc7ed70194f0f4af0de68b2138b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\5f45bdc7ed70194f0f4af0de68b2138b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\2a95d92d0bc8f339463ec448a08eef30\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\2a95d92d0bc8f339463ec448a08eef30\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\bd40bd45340dfd45e4f130e56c0a4d23\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\bd40bd45340dfd45e4f130e56c0a4d23\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\87b79125bdb6a6f16b6a91956f3fa741\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\87b79125bdb6a6f16b6a91956f3fa741\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\cb39ed2d2d5a85e47d1a665751d01198\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\cb39ed2d2d5a85e47d1a665751d01198\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\69408043786d51ea4ea20e9cf5c407f6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\69408043786d51ea4ea20e9cf5c407f6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\542ecc494c17a063101933f37745ce49\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\542ecc494c17a063101933f37745ce49\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\aba92cdd69cb34680da054fb1fabf396\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\aba92cdd69cb34680da054fb1fabf396\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\58139a2280ed5d747d1826b918bd89d3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\58139a2280ed5d747d1826b918bd89d3\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\aba92cdd69cb34680da054fb1fabf396\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:17:9-37
+	android:hardwareAccelerated
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:15:9-43
+	android:fullBackupContent
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:14:9-42
+	android:icon
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:16:9-37
+	android:allowBackup
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:19:9-47
+activity#com.google.android.gms.samples.vision.ocrreader.MainActivity
+ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:24:27-74
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:28:9-30:69
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\cb39ed2d2d5a85e47d1a665751d01198\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\cb39ed2d2d5a85e47d1a665751d01198\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:30:13-66
+	android:name
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:29:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:31:9-33:52
+	android:value
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:32:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:34:9-36:35
+	android:value
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:36:13-32
+	android:name
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:35:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:38:9-41:54
+	android:screenOrientation
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:41:13-51
+	android:label
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:40:13-43
+	android:name
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml:39:13-47
+uses-sdk
+INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\cb6df6f837d35ad8ce67eb9eef8e8fee\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\cb6df6f837d35ad8ce67eb9eef8e8fee\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\2d9be438424a0aaf12ae0e0acb08435f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\2d9be438424a0aaf12ae0e0acb08435f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\5f45bdc7ed70194f0f4af0de68b2138b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\5f45bdc7ed70194f0f4af0de68b2138b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\d596f8f0ed3aabb45fe9787b039e0d21\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\d596f8f0ed3aabb45fe9787b039e0d21\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\2a95d92d0bc8f339463ec448a08eef30\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\2a95d92d0bc8f339463ec448a08eef30\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\bd40bd45340dfd45e4f130e56c0a4d23\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\bd40bd45340dfd45e4f130e56c0a4d23\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\87b79125bdb6a6f16b6a91956f3fa741\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\87b79125bdb6a6f16b6a91956f3fa741\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\cb39ed2d2d5a85e47d1a665751d01198\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\cb39ed2d2d5a85e47d1a665751d01198\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\799762dd28303ae8799b26bfa55cfedd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\799762dd28303ae8799b26bfa55cfedd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\69408043786d51ea4ea20e9cf5c407f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\69408043786d51ea4ea20e9cf5c407f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\542ecc494c17a063101933f37745ce49\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\542ecc494c17a063101933f37745ce49\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\adb99c7f8baece2a3158afb231021bcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\adb99c7f8baece2a3158afb231021bcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e14834dbd8880a5d235950ab9141b87c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e14834dbd8880a5d235950ab9141b87c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6460f13a359eaa71daf451522a672483\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6460f13a359eaa71daf451522a672483\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f8ef5c3d608fc1af5053a8105f99e8c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f8ef5c3d608fc1af5053a8105f99e8c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3e289e9bd6db75c3ec87878f562e6222\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3e289e9bd6db75c3ec87878f562e6222\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a42a224525c028048e3d1c15a920d9ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a42a224525c028048e3d1c15a920d9ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b84cb86e863c56ec9ae0b78756d72c49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b84cb86e863c56ec9ae0b78756d72c49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\8756f3ccaa32824368d4c1826dc32338\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\8756f3ccaa32824368d4c1826dc32338\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0a9d4791e2c9f1e99fa1e601f63433d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0a9d4791e2c9f1e99fa1e601f63433d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ccdc9e44ad87f8c0954df505f7c2289d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ccdc9e44ad87f8c0954df505f7c2289d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\30e1afb859d1bed8b267a5e221f33439\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\30e1afb859d1bed8b267a5e221f33439\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4d4225fdbc8a1490cb55a8bbda27211b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4d4225fdbc8a1490cb55a8bbda27211b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\182dbd26ca6d2e24c6f017c68c83ac72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\182dbd26ca6d2e24c6f017c68c83ac72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\edb3ae309d7afef03d19959661fcf9f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\edb3ae309d7afef03d19959661fcf9f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0c2057db10efe871a7835a41a6e4d08f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0c2057db10efe871a7835a41a6e4d08f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\727baef0054bfab195484f4bcf2f8eae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\727baef0054bfab195484f4bcf2f8eae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f1ffb9aef979403e478a32473f01b83b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f1ffb9aef979403e478a32473f01b83b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\aba92cdd69cb34680da054fb1fabf396\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\aba92cdd69cb34680da054fb1fabf396\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e795a14cb78d90720789431a496daf69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e795a14cb78d90720789431a496daf69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\58139a2280ed5d747d1826b918bd89d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\58139a2280ed5d747d1826b918bd89d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\672d78e5b5a0b11d16c8e0625af56309\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\672d78e5b5a0b11d16c8e0625af56309\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\5fa9678b30b88a9fc8cdc24698fd61e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\5fa9678b30b88a9fc8cdc24698fd61e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\869c3e56af51c0feab150e6b612d05b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\869c3e56af51c0feab150e6b612d05b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\34430eda741302268108b87da69c87a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\34430eda741302268108b87da69c87a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8d4f39d17d243efa306729e0d98e6f86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8d4f39d17d243efa306729e0d98e6f86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ac4d0c4ad644026d2d82c8d70bf25aa6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ac4d0c4ad644026d2d82c8d70bf25aa6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7f5ee3030a09dae92886eb406ec2fa79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7f5ee3030a09dae92886eb406ec2fa79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8520e186a2728003c315b37b0eb2e109\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8520e186a2728003c315b37b0eb2e109\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\79a4cda66176e808803605b5b998e5fc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\79a4cda66176e808803605b5b998e5fc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\08c3a69469eb7c709ea828b707921d3a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\08c3a69469eb7c709ea828b707921d3a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dinaa\AndroidStudioProjects\GraduationProject\ocr-reader-complete\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\bd40bd45340dfd45e4f130e56c0a4d23\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\bd40bd45340dfd45e4f130e56c0a4d23\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\bd40bd45340dfd45e4f130e56c0a4d23\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dinaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\bd40bd45340dfd45e4f130e56c0a4d23\AndroidManifest.xml:24:13-79
